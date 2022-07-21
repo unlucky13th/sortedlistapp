@@ -1,0 +1,16 @@
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.AssemblyReference.cache
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+C:\Users\suwichan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
